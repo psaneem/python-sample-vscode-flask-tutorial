@@ -1,5 +1,4 @@
 [![Build Status](https://dev.azure.com/costar-network-team/pat-develop/_apis/build/status/psaneem.python-sample-vscode-flask-tutorial?branchName=master)]
-
 (https://dev.azure.com/costar-network-team/pat-develop/_build/latest?definitionId=3&branchName=master)
 # Python/Flask Tutorial for Visual Studio Code
 
